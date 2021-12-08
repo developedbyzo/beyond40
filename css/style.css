@@ -2,7 +2,7 @@
     background-color: blueviolet;
 } */
 .checked {
-    color: yellow;
+    color: #0092d6;
 }
 .shaded {
     color: gray;
@@ -32,7 +32,7 @@
 
 /* Left side area */
 .left-side {
-    border-right: .5px solid lightgrey;
+    border-right: .2px solid lightgrey;
     padding: 20px;
     width: 25%;
 }
@@ -52,7 +52,7 @@
 
 /* Middle area */
 .middle {
-    border-right: .5px solid lightgrey;
+    border-right: .2px solid lightgrey;
     width: 40%;
     padding: 20px;
 }
@@ -136,27 +136,27 @@ button:hover {
 
 /* Reviews bars */
 .star-5-bar {
-    width: 96%;
+    width: 90%;
     height: 15px;
-    background-color: yellow;
+    background-color: #0092d6;
 }
 .star-4-bar {
-    width: 3%;
+    width: 8%;
     height: 15px;
-    background-color: yellow;
+    background-color: #0092d6;
 }
 .star-3-bar {
-    width: 1%;
+    width: 2%;
     height: 15px;
-    background-color: yellow;
+    background-color: #0092d6;
 }
 .star-2-bar {
     width: 0%;
     height: 15px;
-    background-color: yellow;
+    background-color: #0092d6;
 }
 .star-1-bar {
     width: 0%;
     height: 15px;
-    background-color: yellow;
+    background-color: #0092d6;
 }
